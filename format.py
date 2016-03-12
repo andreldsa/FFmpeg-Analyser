@@ -1,7 +1,15 @@
-def toCSV(mapa):
+# calcula o numero de ocorrencias para cada conf
+def getCounter(mapa):
+	counter = {}
+	for key in mapa.keys():
+		counter[key] = len(mapa[key])
+	return counter
 
+def toCSV(mapa):
+	counter = getCounter(mapa)
+	print counter
 	keys = mapa.keys()
-	print "conf,pid,cpu,mem"
+	print "conf,pid,cpu,mem,time"
 	for key in keys:
 		for value in mapa[key]:
 			value = value.split(" ")
