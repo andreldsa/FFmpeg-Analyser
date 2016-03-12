@@ -6,5 +6,5 @@ do
 	if ! [ -z "$pid" ] ; then
 		echo $pid && ps -p $pid -o %cpu,%mem,cmd | tail -n 1
 	fi
-	sleep 1;
+	sleep 2;
 done
