@@ -8,6 +8,7 @@ def getCounter(mapa):
 def toCSV(mapa):
 	counter = getCounter(mapa)
 	print counter
+	print counter.values()
 	keys = mapa.keys()
 	print "conf,pid,cpu,mem,time"
 	for key in keys:
@@ -15,7 +16,7 @@ def toCSV(mapa):
 			value = value.split(" ")
 			print "".join(key.split(" ")) + "," + value[0] + "," + value[1] + "," + value[2]
 
-with open('output') as file:
+with open('saida.out') as file:
 	mapa = {}
 
 	tmp = -1

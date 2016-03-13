@@ -33,13 +33,16 @@ do
 	do
 		for resolucao in "${resolucoes[@]}"
 		do	
-			# echo Configuracao $codec $bitrate $resolucao:
-			timestamp=$(date +%s)
-			ffmpeg -i input.mkv -c:v $codec -b:v $bitrate -s $resolucao -loglevel 'quiet' output.avi
-			now=$(date +%s)
-			result="$(($now-$timestamp))"
-			echo $codec $bitrate $resolucao "${result}"
-			rm output.avi
+			for var in {1..10}
+			do
+				# echo Configuracao $codec $bitrate $resolucao:
+				timestamp=$(date +%s)
+				ffmpeg -i input.mkv -c:v $codec -b:v $bitrate -s $resolucao -loglevel 'quiet' output.avi
+				now=$(date +%s)
+				result="$(($now-$timestamp))"
+				echo $codec $bitrate $resolucao "${result}"
+				rm output.avi
+			done
 		done
 	done
 done

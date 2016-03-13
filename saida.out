@@ -1,0 +1,2490 @@
+31261
+ 274  2.2 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31261
+ 282  2.2 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31261
+ 285  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31261
+ 289  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31261
+ 290  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31261
+ 284  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31261
+ 282  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31261
+ 285  2.2 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31261
+ 286  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31261
+ 287  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31380
+79.0  2.1 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31380
+ 229  2.2 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31380
+ 257  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31380
+ 271  2.2 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31380
+ 284  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31380
+ 291  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31380
+ 292  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31380
+ 299  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31380
+ 305  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31380
+ 309  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31484
+ 266  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31484
+ 284  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31484
+ 294  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31484
+ 304  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31484
+ 307  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31484
+ 304  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31484
+ 309  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31484
+ 313  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31484
+ 317  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31589
+ 539  2.2 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31589
+ 385  2.2 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31589
+ 359  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31589
+ 352  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31589
+ 344  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31589
+ 335  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31589
+ 336  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31589
+ 337  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31589
+ 338  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31686
+ 471  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31686
+ 268  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31686
+ 286  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31686
+ 297  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31686
+ 301  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31686
+ 300  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31686
+ 304  2.2 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31686
+ 310  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31686
+ 315  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31783
+ 256  2.2 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31783
+ 281  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31783
+ 294  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31783
+ 306  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31783
+ 307  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31783
+ 306  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31783
+ 312  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31783
+ 316  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31783
+ 319  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31880
+ 301  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31880
+ 302  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31880
+ 308  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31880
+ 316  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31880
+ 313  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31880
+ 311  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31880
+ 315  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31880
+ 319  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31973
+ 0.0  1.1 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31973
+ 337  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31973
+ 321  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31973
+ 318  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31973
+ 324  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31973
+ 317  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31973
+ 316  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31973
+ 320  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+31973
+ 323  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+32070
+ 0.0  2.1 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+32070
+ 378  2.2 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+32070
+ 347  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+32070
+ 339  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+32070
+ 340  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+32070
+ 328  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+32070
+ 328  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+32070
+ 329  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+32070
+ 331  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+32167
+ 0.0  2.2 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+32167
+ 408  2.4 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+32167
+ 366  2.4 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+32167
+ 348  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+32167
+ 346  2.4 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+32167
+ 332  2.4 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+32167
+ 333  2.4 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+32167
+ 334  2.4 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+32167
+ 335  2.4 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 640x480 -loglevel quiet output.avi
+32264
+ 249  2.6 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32264
+ 277  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32264
+ 288  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32264
+ 289  2.6 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32264
+ 293  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32264
+ 297  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32264
+ 291  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32264
+ 293  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32264
+ 295  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32264
+ 298  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32264
+ 300  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32380
+ 274  2.6 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32380
+ 281  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32380
+ 291  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32380
+ 290  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32380
+ 295  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32380
+ 298  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32380
+ 292  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32380
+ 292  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32380
+ 294  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32380
+ 298  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32380
+ 300  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32493
+ 275  2.6 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32493
+ 283  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32493
+ 293  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32493
+ 291  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32493
+ 295  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32493
+ 297  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32493
+ 292  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32493
+ 293  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32493
+ 295  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32493
+ 298  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32493
+ 300  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32603
+ 348  2.6 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32603
+ 309  2.6 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32603
+ 305  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32603
+ 302  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32603
+ 305  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32603
+ 304  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32603
+ 297  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32603
+ 298  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32603
+ 299  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32603
+ 302  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32603
+ 304  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32716
+ 373  2.6 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32716
+ 315  2.6 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32716
+ 311  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32716
+ 304  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32716
+ 306  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32716
+ 278  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32716
+ 276  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32716
+ 280  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32716
+ 283  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32716
+ 287  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+32716
+ 290  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+364
+ 229  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+364
+ 255  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+364
+ 272  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+364
+ 276  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+364
+ 284  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+364
+ 284  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+364
+ 280  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+364
+ 284  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+364
+ 286  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+364
+ 289  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+364
+ 292  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+484
+ 244  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+484
+ 259  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+484
+ 275  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+484
+ 278  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+484
+ 287  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+484
+ 286  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+484
+ 284  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+484
+ 288  2.6 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+484
+ 291  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+484
+ 293  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+596
+ 0.0  0.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+596
+ 292  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+596
+ 284  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+596
+ 293  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+596
+ 293  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+596
+ 300  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+596
+ 296  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+596
+ 292  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+596
+ 295  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+596
+ 296  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+596
+ 298  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+711
+ 0.0  2.2 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+711
+ 332  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+711
+ 311  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+711
+ 306  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+711
+ 304  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+711
+ 309  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+711
+ 302  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+711
+ 298  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+711
+ 301  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+711
+ 302  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+711
+ 304  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+831
+ 0.0  2.6 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+831
+ 378  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+831
+ 333  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+831
+ 322  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+831
+ 281  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+831
+ 289  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+831
+ 284  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+831
+ 284  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+831
+ 289  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+831
+ 292  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+831
+ 295  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+948
+ 248  2.2 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+948
+ 286  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+948
+ 301  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+948
+ 306  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+948
+ 311  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+948
+ 306  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+948
+ 310  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+948
+ 315  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+948
+ 320  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1054
+ 386  2.2 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1054
+ 330  2.2 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1054
+ 324  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1054
+ 324  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1054
+ 323  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1054
+ 317  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1054
+ 319  2.2 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1054
+ 323  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1054
+ 325  2.4 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1157
+ 246  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1157
+ 278  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1157
+ 292  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1157
+ 304  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1157
+ 307  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1157
+ 304  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1157
+ 310  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1157
+ 314  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1258
+ 0.0  0.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1258
+ 316  2.2 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1258
+ 311  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1258
+ 315  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1258
+ 322  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1258
+ 315  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1258
+ 315  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1258
+ 318  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1258
+ 322  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1362
+ 0.0  2.1 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1362
+ 378  2.2 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1362
+ 341  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1362
+ 333  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1362
+ 334  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1362
+ 322  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1362
+ 325  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1362
+ 327  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1362
+ 311  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1464
+ 263  2.2 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1464
+ 295  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1464
+ 306  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1464
+ 310  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1464
+ 314  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1464
+ 309  2.2 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1464
+ 313  2.2 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1464
+ 316  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1464
+ 320  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1561
+ 338  2.2 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1561
+ 315  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1561
+ 317  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1561
+ 321  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1561
+ 321  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1561
+ 314  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1561
+ 316  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1561
+ 320  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1561
+ 323  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1658
+ 221  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1658
+ 262  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1658
+ 278  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1658
+ 292  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1658
+ 296  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1658
+ 296  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1658
+ 302  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1658
+ 307  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1658
+ 311  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1763
+ 285  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1763
+ 294  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1763
+ 298  2.2 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1763
+ 308  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1763
+ 307  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1763
+ 306  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1763
+ 311  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1763
+ 316  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1887
+ 0.0  1.4 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1887
+ 352  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1887
+ 329  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1887
+ 326  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1887
+ 328  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1887
+ 319  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1887
+ 319  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1887
+ 322  2.3 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+1887
+ 325  2.2 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+2068
+ 0.0  2.5 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2068
+ 370  2.6 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2068
+ 328  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2068
+ 316  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2068
+ 312  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2068
+ 314  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2068
+ 305  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2068
+ 281  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2068
+ 286  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2068
+ 290  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2068
+ 293  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2220
+ 212  2.6 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2220
+ 260  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2220
+ 278  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2220
+ 281  2.6 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2220
+ 287  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2220
+ 291  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2220
+ 287  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2220
+ 288  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2220
+ 291  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2220
+ 293  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2220
+ 296  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2333
+ 314  2.6 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2333
+ 294  2.6 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2333
+ 297  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2333
+ 294  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2333
+ 298  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2333
+ 298  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2333
+ 292  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2333
+ 294  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2333
+ 295  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2333
+ 298  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2333
+ 301  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2448
+ 430  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2448
+ 329  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2448
+ 317  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2448
+ 308  2.6 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2448
+ 310  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2448
+ 308  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2448
+ 301  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2448
+ 302  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2448
+ 303  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2448
+ 305  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2448
+ 306  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2566
+ 486  2.6 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2566
+ 346  2.6 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2566
+ 330  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2566
+ 317  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2566
+ 317  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2566
+ 311  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2566
+ 303  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2566
+ 305  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2566
+ 304  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2566
+ 306  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2566
+ 308  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2692
+ 495  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2692
+ 350  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2692
+ 336  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2692
+ 282  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2692
+ 290  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2692
+ 288  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2692
+ 284  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2692
+ 289  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2692
+ 291  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2692
+ 294  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2692
+ 296  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2805
+ 273  2.6 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2805
+ 277  2.6 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2805
+ 289  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2805
+ 290  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2805
+ 297  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2805
+ 293  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2805
+ 291  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2805
+ 294  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2805
+ 295  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2805
+ 297  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2914
+ 0.0  1.1 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2914
+ 300  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2914
+ 289  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2914
+ 296  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2914
+ 296  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2914
+ 302  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2914
+ 297  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2914
+ 293  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2914
+ 296  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2914
+ 298  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+2914
+ 300  2.8 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+3028
+ 0.0  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+3028
+ 336  2.9 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+3028
+ 310  2.9 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+3028
+ 306  2.9 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+3028
+ 304  2.9 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+3028
+ 306  2.9 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+3028
+ 299  2.9 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+3028
+ 296  2.9 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+3028
+ 298  3.0 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+3028
+ 300  3.0 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+3028
+ 302  3.0 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+3141
+ 0.0  2.5 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+3141
+ 368  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+3141
+ 330  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+3141
+ 318  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+3141
+ 314  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+3141
+ 315  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+3141
+ 305  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+3141
+ 302  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+3141
+ 305  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+3141
+ 308  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+3141
+ 309  2.7 ffmpeg -i input.mkv -c:v mpeg4 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+3254
+ 0.0  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3254
+ 188  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3254
+ 180  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3254
+ 184  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3254
+ 182  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3254
+ 180  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3254
+ 180  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3254
+ 182  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3254
+ 182  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3254
+ 180  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3254
+ 178  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3254
+ 178  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3254
+ 180  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3254
+ 181  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3254
+ 182  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3254
+ 183  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3254
+ 184  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3423
+ 150  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3423
+ 180  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3423
+ 177  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3423
+ 178  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3423
+ 180  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3423
+ 179  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3423
+ 178  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3423
+ 180  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3423
+ 181  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3423
+ 180  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3423
+ 179  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3423
+ 178  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3423
+ 178  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3423
+ 180  3.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3423
+ 181  3.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3423
+ 182  3.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3423
+ 183  3.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3423
+ 184  3.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3592
+ 280  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3592
+ 217  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3592
+ 196  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3592
+ 196  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3592
+ 192  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3592
+ 188  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3592
+ 187  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3592
+ 188  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3592
+ 187  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3592
+ 185  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3592
+ 183  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3592
+ 180  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3592
+ 182  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3592
+ 183  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3592
+ 184  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3592
+ 184  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3592
+ 186  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3764
+ 284  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3764
+ 218  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3764
+ 199  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3764
+ 196  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3764
+ 193  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3764
+ 189  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3764
+ 187  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3764
+ 189  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3764
+ 188  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3764
+ 175  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3764
+ 175  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3764
+ 174  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3764
+ 174  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3764
+ 176  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3764
+ 177  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3764
+ 179  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3764
+ 180  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+3764
+ 182  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4008
+ 0.0  3.0 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4008
+ 270  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4008
+ 219  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4008
+ 179  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4008
+ 179  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4008
+ 177  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4008
+ 178  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4008
+ 180  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4008
+ 181  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4008
+ 180  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4008
+ 177  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4008
+ 178  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4008
+ 180  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4008
+ 181  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4008
+ 182  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4008
+ 183  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4008
+ 184  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4169
+ 136  3.0 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4169
+ 175  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4169
+ 174  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4169
+ 177  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4169
+ 178  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4169
+ 176  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4169
+ 177  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4169
+ 179  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4169
+ 180  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4169
+ 179  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4169
+ 177  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4169
+ 177  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4169
+ 178  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4169
+ 169  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4169
+ 170  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4169
+ 172  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4169
+ 173  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4169
+ 175  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4342
+ 155  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4342
+ 167  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4342
+ 165  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4342
+ 174  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4342
+ 174  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4342
+ 174  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4342
+ 175  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4342
+ 178  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4342
+ 177  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4342
+ 176  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4342
+ 175  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4342
+ 174  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4342
+ 176  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4342
+ 177  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4342
+ 178  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4342
+ 179  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4342
+ 181  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4507
+ 125  3.0 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4507
+ 172  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4507
+ 171  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4507
+ 174  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4507
+ 176  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4507
+ 175  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4507
+ 176  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4507
+ 178  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4507
+ 179  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4507
+ 178  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4507
+ 177  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4507
+ 177  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4507
+ 178  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4507
+ 179  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4507
+ 180  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4507
+ 181  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4507
+ 183  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4507
+ 184  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4676
+ 172  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4676
+ 176  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4676
+ 173  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4676
+ 178  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4676
+ 178  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4676
+ 178  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4676
+ 178  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4676
+ 180  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4676
+ 180  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4676
+ 179  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4676
+ 177  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4676
+ 177  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4676
+ 179  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4676
+ 180  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4676
+ 174  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4676
+ 174  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4676
+ 170  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4676
+ 172  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4847
+ 199  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4847
+ 192  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4847
+ 183  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4847
+ 185  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4847
+ 184  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4847
+ 181  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4847
+ 181  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4847
+ 183  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4847
+ 184  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4847
+ 182  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4847
+ 179  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4847
+ 179  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4847
+ 172  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4847
+ 174  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4847
+ 175  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4847
+ 177  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4847
+ 178  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+4847
+ 180  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 640x480 -loglevel quiet output.avi
+5016
+ 222  5.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5016
+ 249  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5016
+ 257  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5016
+ 260  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5016
+ 265  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5016
+ 266  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5016
+ 268  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5016
+ 269  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5016
+ 269  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5016
+ 270  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5016
+ 253  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5016
+ 254  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5016
+ 256  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5016
+ 256  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5016
+ 257  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5016
+ 258  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5016
+ 259  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5016
+ 260  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5016
+ 261  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5016
+ 262  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5016
+ 263  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5016
+ 263  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5016
+ 264  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5016
+ 265  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5016
+ 266  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5243
+ 371  5.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5243
+ 308  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5243
+ 293  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5243
+ 286  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5243
+ 286  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5243
+ 285  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5243
+ 283  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5243
+ 282  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5243
+ 265  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5243
+ 267  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5243
+ 269  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5243
+ 266  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5243
+ 266  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5243
+ 267  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5243
+ 267  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5243
+ 265  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5243
+ 260  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5243
+ 259  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5243
+ 260  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5243
+ 261  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5243
+ 261  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5243
+ 262  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5243
+ 263  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5243
+ 264  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5243
+ 265  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5472
+ 224  5.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5472
+ 247  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5472
+ 255  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5472
+ 258  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5472
+ 264  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5472
+ 267  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5472
+ 268  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5472
+ 269  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5472
+ 270  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5472
+ 271  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5472
+ 273  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5472
+ 273  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5472
+ 272  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5472
+ 272  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5472
+ 270  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5472
+ 268  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5472
+ 258  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5472
+ 260  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5472
+ 261  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5472
+ 262  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5472
+ 263  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5472
+ 264  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5472
+ 264  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5472
+ 265  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5472
+ 266  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5701
+ 448  5.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5701
+ 336  5.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5701
+ 258  5.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5701
+ 261  5.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5701
+ 266  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5701
+ 268  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5701
+ 270  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5701
+ 270  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5701
+ 270  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5701
+ 271  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5701
+ 273  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5701
+ 273  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5701
+ 272  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5701
+ 272  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5701
+ 270  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5701
+ 267  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5701
+ 263  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5701
+ 264  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5701
+ 265  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5701
+ 266  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5701
+ 260  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5701
+ 261  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5701
+ 262  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5701
+ 263  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5923
+55.0  5.0 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5923
+ 205  5.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5923
+ 231  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5923
+ 242  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5923
+ 248  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5923
+ 255  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5923
+ 257  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5923
+ 259  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5923
+ 262  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5923
+ 263  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5923
+ 265  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5923
+ 267  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5923
+ 267  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5923
+ 267  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5923
+ 268  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5923
+ 265  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5923
+ 261  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5923
+ 251  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5923
+ 252  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5923
+ 254  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5923
+ 255  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5923
+ 256  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5923
+ 257  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5923
+ 258  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5923
+ 259  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5923
+ 256  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+5923
+ 250  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6168
+ 205  5.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6168
+ 241  5.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6168
+ 250  5.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6168
+ 256  5.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6168
+ 262  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6168
+ 264  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6168
+ 265  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6168
+ 266  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6168
+ 266  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6168
+ 268  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6168
+ 270  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6168
+ 270  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6168
+ 270  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6168
+ 270  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6168
+ 270  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6168
+ 268  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6168
+ 252  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6168
+ 254  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6168
+ 255  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6168
+ 257  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6168
+ 258  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6168
+ 259  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6168
+ 259  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6168
+ 260  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6386
+ 134  5.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6386
+ 231  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6386
+ 247  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6386
+ 251  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6386
+ 257  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6386
+ 262  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6386
+ 264  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6386
+ 265  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6386
+ 266  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6386
+ 268  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6386
+ 269  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6386
+ 270  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6386
+ 270  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6386
+ 270  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6386
+ 271  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6386
+ 271  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6386
+ 271  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6386
+ 261  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6386
+ 263  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6386
+ 263  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6386
+ 264  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6386
+ 265  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6386
+ 265  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6386
+ 266  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6386
+ 266  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6615
+ 219  5.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6615
+ 256  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6615
+ 264  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6615
+ 265  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6615
+ 269  5.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6615
+ 271  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6615
+ 272  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6615
+ 272  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6615
+ 272  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6615
+ 258  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6615
+ 260  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6615
+ 262  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6615
+ 263  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6615
+ 263  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6615
+ 264  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6615
+ 264  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6615
+ 270  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6615
+ 271  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6615
+ 271  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6615
+ 271  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6615
+ 272  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6615
+ 272  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6615
+ 272  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6615
+ 273  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6834
+ 247  5.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6834
+ 266  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6834
+ 266  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6834
+ 267  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6834
+ 270  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6834
+ 273  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6834
+ 274  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6834
+ 256  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6834
+ 258  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6834
+ 260  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6834
+ 262  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6834
+ 264  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6834
+ 264  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6834
+ 264  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6834
+ 265  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6834
+ 265  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6834
+ 256  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6834
+ 257  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6834
+ 259  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6834
+ 260  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6834
+ 261  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6834
+ 261  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6834
+ 262  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6834
+ 263  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+6834
+ 263  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+7064
+ 368  5.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+7064
+ 305  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+7064
+ 291  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+7064
+ 284  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+7064
+ 284  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+7064
+ 283  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+7064
+ 282  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+7064
+ 280  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+7064
+ 280  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+7064
+ 280  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+7064
+ 280  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+7064
+ 280  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+7064
+ 279  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+7064
+ 278  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+7064
+ 277  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+7064
+ 277  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+7064
+ 264  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+7064
+ 265  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+7064
+ 266  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+7064
+ 267  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+7064
+ 268  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+7064
+ 268  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+7064
+ 268  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+7064
+ 269  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+7064
+ 270  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 512 -s 1280x720 -loglevel quiet output.avi
+7293
+ 263  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7293
+ 210  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7293
+ 193  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7293
+ 193  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7293
+ 190  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7293
+ 186  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7293
+ 172  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7293
+ 175  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7293
+ 176  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7293
+ 175  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7293
+ 174  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7293
+ 174  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7293
+ 176  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7293
+ 177  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7293
+ 169  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7293
+ 171  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7293
+ 172  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7293
+ 174  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7462
+70.0  3.0 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7462
+ 156  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7462
+ 161  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7462
+ 167  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7462
+ 171  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7462
+ 171  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7462
+ 172  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7462
+ 175  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7462
+ 176  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7462
+ 176  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7462
+ 174  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7462
+ 175  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7462
+ 174  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7462
+ 175  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7462
+ 177  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7462
+ 178  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7462
+ 180  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7462
+ 181  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7635
+ 165  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7635
+ 172  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7635
+ 170  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7635
+ 177  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7635
+ 176  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7635
+ 175  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7635
+ 177  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7635
+ 179  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7635
+ 178  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7635
+ 177  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7635
+ 177  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7635
+ 177  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7635
+ 179  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7635
+ 180  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7635
+ 181  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7635
+ 182  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7635
+ 183  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7864
+ 304  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7864
+ 224  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7864
+ 200  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7864
+ 199  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7864
+ 193  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7864
+ 189  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7864
+ 188  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7864
+ 189  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7864
+ 187  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7864
+ 185  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7864
+ 183  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7864
+ 183  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7864
+ 184  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7864
+ 178  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7864
+ 180  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7864
+ 181  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+7864
+ 182  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8025
+ 127  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8025
+ 157  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8025
+ 161  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8025
+ 170  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8025
+ 171  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8025
+ 171  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8025
+ 172  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8025
+ 175  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8025
+ 176  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8025
+ 175  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8025
+ 173  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8025
+ 174  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8025
+ 176  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8025
+ 172  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8025
+ 173  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8025
+ 175  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8025
+ 176  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8025
+ 178  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8198
+ 174  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8198
+ 178  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8198
+ 173  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8198
+ 179  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8198
+ 178  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8198
+ 177  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8198
+ 178  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8198
+ 181  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8198
+ 180  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8198
+ 178  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8198
+ 177  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8198
+ 175  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8198
+ 177  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8198
+ 178  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8198
+ 180  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8198
+ 180  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8198
+ 182  3.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8359
+ 109  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8359
+ 148  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8359
+ 154  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8359
+ 165  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8359
+ 167  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8359
+ 167  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8359
+ 169  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8359
+ 172  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8359
+ 173  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8359
+ 172  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8359
+ 171  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8359
+ 172  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8359
+ 174  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8359
+ 175  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8359
+ 177  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8359
+ 178  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8359
+ 180  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8524
+ 0.0  1.0 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8524
+ 204  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8524
+ 188  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8524
+ 183  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8524
+ 185  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8524
+ 183  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8524
+ 182  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8524
+ 183  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8524
+ 184  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8524
+ 184  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8524
+ 182  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8524
+ 180  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8524
+ 180  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8524
+ 182  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8524
+ 182  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8524
+ 184  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8524
+ 177  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8524
+ 178  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8524
+ 180  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8701
+ 176  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8701
+ 178  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8701
+ 173  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8701
+ 180  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8701
+ 179  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8701
+ 178  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8701
+ 179  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8701
+ 181  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8701
+ 181  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8701
+ 180  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8701
+ 177  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8701
+ 178  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8701
+ 179  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8701
+ 180  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8701
+ 181  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8701
+ 182  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8701
+ 184  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8866
+ 0.0  3.0 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8866
+ 251  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8866
+ 211  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8866
+ 201  3.1 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8866
+ 176  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8866
+ 175  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8866
+ 176  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8866
+ 178  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8866
+ 180  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8866
+ 178  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8866
+ 177  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8866
+ 177  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8866
+ 178  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8866
+ 179  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8866
+ 181  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8866
+ 182  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+8866
+ 183  3.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 640x480 -loglevel quiet output.avi
+9031
+ 0.0  1.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9031
+ 301  5.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9031
+ 287  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9031
+ 282  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9031
+ 279  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9031
+ 280  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9031
+ 279  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9031
+ 278  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9031
+ 277  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9031
+ 277  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9031
+ 259  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9031
+ 261  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9031
+ 262  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9031
+ 263  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9031
+ 264  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9031
+ 264  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9031
+ 265  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9031
+ 265  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9031
+ 266  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9031
+ 267  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9031
+ 268  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9031
+ 268  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9031
+ 269  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9031
+ 269  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9031
+ 270  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9257
+ 0.0  5.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9257
+ 322  5.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9257
+ 299  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9257
+ 288  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9257
+ 285  5.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9257
+ 285  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9257
+ 283  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9257
+ 283  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9257
+ 282  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9257
+ 281  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9257
+ 281  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9257
+ 281  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9257
+ 280  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9257
+ 279  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9257
+ 278  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9257
+ 271  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9257
+ 263  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9257
+ 256  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9257
+ 258  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9257
+ 258  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9257
+ 260  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9257
+ 260  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9257
+ 261  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9257
+ 262  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9257
+ 263  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9482
+43.0  3.0 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9482
+ 200  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9482
+ 230  5.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9482
+ 243  5.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9482
+ 249  5.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9482
+ 255  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9482
+ 258  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9482
+ 260  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9482
+ 262  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9482
+ 263  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9482
+ 265  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9482
+ 267  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9482
+ 267  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9482
+ 267  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9482
+ 268  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9482
+ 268  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9482
+ 268  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9482
+ 269  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9482
+ 270  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9482
+ 270  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9482
+ 271  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9482
+ 271  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9482
+ 271  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9482
+ 272  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9482
+%CPU %MEM CMD
+9706
+ 265  5.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9706
+ 268  5.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9706
+ 268  5.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9706
+ 268  5.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9706
+ 273  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9706
+ 273  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9706
+ 273  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9706
+ 273  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9706
+ 273  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9706
+ 273  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9706
+ 275  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9706
+ 275  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9706
+ 274  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9706
+ 274  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9706
+ 274  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9706
+ 272  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9706
+ 265  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9706
+ 266  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9706
+ 266  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9706
+ 267  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9706
+ 268  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9706
+ 268  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9706
+ 269  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9706
+ 263  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9706
+ 261  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9936
+ 249  5.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9936
+ 261  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9936
+ 263  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9936
+ 265  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9936
+ 270  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9936
+ 271  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9936
+ 271  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9936
+ 272  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9936
+ 272  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9936
+ 273  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9936
+ 273  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9936
+ 274  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9936
+ 273  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9936
+ 272  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9936
+ 272  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9936
+ 272  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9936
+ 270  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9936
+ 271  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9936
+ 272  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9936
+ 272  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9936
+ 273  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9936
+ 273  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9936
+ 273  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+9936
+ 264  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10157
+ 0.0  4.8 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10157
+ 303  5.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10157
+ 290  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10157
+ 284  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10157
+ 280  5.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10157
+ 282  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10157
+ 281  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10157
+ 280  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10157
+ 279  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10157
+ 279  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10157
+ 279  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10157
+ 279  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10157
+ 279  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10157
+ 278  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10157
+ 278  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10157
+ 273  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10157
+ 261  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10157
+ 261  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10157
+ 263  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10157
+ 264  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10157
+ 265  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10157
+ 265  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10157
+ 266  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10157
+ 267  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10157
+ 267  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10386
+ 0.0  5.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10386
+ 378  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10386
+ 326  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10386
+ 306  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10386
+ 299  5.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10386
+ 296  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10386
+ 270  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10386
+ 271  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10386
+ 271  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10386
+ 272  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10386
+ 272  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10386
+ 279  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10386
+ 278  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10386
+ 277  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10386
+ 277  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10386
+ 275  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10386
+ 263  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10386
+ 264  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10386
+ 265  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10386
+ 266  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10386
+ 267  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10386
+ 267  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10386
+ 268  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10386
+ 268  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10386
+ 269  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10618
+ 324  5.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10618
+ 291  5.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10618
+ 285  5.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10618
+ 281  5.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10618
+ 282  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10618
+ 281  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10618
+ 280  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10618
+ 279  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10618
+ 263  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10618
+ 264  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10618
+ 266  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10618
+ 267  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10618
+ 267  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10618
+ 267  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10618
+ 267  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10618
+ 257  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10618
+ 257  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10618
+ 259  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10618
+ 260  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10618
+ 261  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10618
+ 262  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10618
+ 263  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10618
+ 264  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10618
+ 264  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10835
+ 0.0  5.2 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10835
+ 318  5.4 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10835
+ 296  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10835
+ 286  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10835
+ 284  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10835
+ 285  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10835
+ 283  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10835
+ 282  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10835
+ 281  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10835
+ 280  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10835
+ 281  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10835
+ 281  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10835
+ 280  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10835
+ 280  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10835
+ 280  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10835
+ 279  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10835
+ 266  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10835
+ 267  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10835
+ 268  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10835
+ 269  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10835
+ 269  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10835
+ 270  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10835
+ 270  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10835
+ 271  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+10835
+ 266  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+11064
+ 176  5.3 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+11064
+ 247  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+11064
+ 257  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+11064
+ 261  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+11064
+ 266  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+11064
+ 269  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+11064
+ 270  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+11064
+ 270  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+11064
+ 270  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+11064
+ 271  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+11064
+ 272  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+11064
+ 273  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+11064
+ 272  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+11064
+ 272  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+11064
+ 272  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+11064
+ 271  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+11064
+ 261  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+11064
+ 262  5.5 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+11064
+ 264  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+11064
+ 265  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+11064
+ 265  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+11064
+ 266  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+11064
+ 267  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+11064
+ 267  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
+11064
+ 268  5.6 ffmpeg -i input.mkv -c:v ffv1 -b:v 1200 -s 1280x720 -loglevel quiet output.avi
